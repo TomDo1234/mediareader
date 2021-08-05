@@ -4,3 +4,7 @@ div.mediadisplay {
     width: 100%;
     background-color: #FFCC00; 
 }
+img.imagedisplay {
+	height: 100%;
+	width: 100%;
+}
